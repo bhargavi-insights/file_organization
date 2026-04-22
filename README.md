@@ -194,6 +194,14 @@ GitHub: [https://github.com/bhargavi-insights](https://github.com/bhargavi-insig
 
 <div align="center">
 
-### ⭐ If you found this project useful, consider giving it a star!
+## ⭐ Support
+
+If you like this project:
+
+- ⭐ Star the repo
+- 🍴 Fork it
+- 🚀 Share it
+
+---
 
 </div>

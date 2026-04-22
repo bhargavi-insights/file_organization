@@ -192,7 +192,6 @@ GitHub: [https://github.com/bhargavi-insights](https://github.com/bhargavi-insig
 
 ---
 
-<div align="center">
 
 ## ⭐ Support
 
@@ -204,4 +203,3 @@ If you like this project:
 
 ---
 
-</div>

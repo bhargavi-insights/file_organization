@@ -154,9 +154,9 @@ Restore previous file locations instantly.
 🖼️ Preview
 
 <p align="center">
-  <img width="1910" height="1033" alt="Screenshot 2026-04-10 162404" src="https://github.com/user-attachments/assets/2fc64880-bb4a-4211-b795-f84c07df2337" />
-  <img width="1908" height="1035" alt="Screenshot 2026-04-10 162417" src="https://github.com/user-attachments/assets/1ea62c88-4d21-402f-80e9-56682f0803c7" />
-  <img width="1912" height="1036" alt="Screenshot 2026-04-10 162445" src="https://github.com/user-attachments/assets/a0b08ad2-5802-4caf-93b6-7f414d9fe1e2" />
+  <img width="1895" height="1024" alt="Screenshot 2026-04-23 191712" src="https://github.com/user-attachments/assets/004946bc-e187-4edc-923f-c04ce4eadd67" />
+  <img width="1908" height="1035" alt="Screenshot 2026-04-10 162417" src="" />
+  <img width="1912" height="1036" alt="Screenshot 2026-04-10 162445" src="" />
 </p>
 
 # 🔮 Future Enhancements

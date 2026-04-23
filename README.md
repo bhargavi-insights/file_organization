@@ -155,7 +155,7 @@ Restore previous file locations instantly.
 
 
 
-* Dashboard UI
+
 * Folder organization
 * Duplicate detection
 * Before/After comparison

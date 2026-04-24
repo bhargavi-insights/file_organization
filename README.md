@@ -150,7 +150,7 @@ Restore previous file locations instantly.
 
 ---
 
-🖼️ Preview
+# 🖼️ Preview
 
 <p align="center">
   <img width="1895" height="1024" alt="Screenshot 2026-04-23 191712" src="https://github.com/user-attachments/assets/004946bc-e187-4edc-923f-c04ce4eadd67" />

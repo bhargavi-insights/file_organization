@@ -9,7 +9,6 @@ A simple yet powerful **Smart File Organizer** built using **Python & Streamlit*
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge\&logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge\&logo=streamlit)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
 </div>
 

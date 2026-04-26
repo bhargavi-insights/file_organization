@@ -166,7 +166,7 @@ Restore previous file locations instantly.
 ###  Before  
 
 <p align="center">
-  <img width="1694" height="755" alt="Screenshot 2026-04-23 191626" src="https://github.com/user-attachments/assets/0f10b417-fb0d-42a5-be8c-e8d7738d41f3" />
+  
 </p>
 
 ###  After

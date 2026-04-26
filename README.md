@@ -157,16 +157,21 @@ Restore previous file locations instantly.
   
   <img width="1901" height="1029" alt="Screenshot 2026-04-23 191733" src="https://github.com/user-attachments/assets/de9679ff-1045-448e-b9d5-5353922d0324" /> </p>
   
-### To organize folder        
+###  To organize folder        
 
  <p align="center">
   <img width="1909" height="1031" alt="Screenshot 2026-04-23 191950" src="https://github.com/user-attachments/assets/dc99dfa2-cc81-4203-8c78-8486126c708b" />
  </p>
  
-### Before  
+###  Before  
 
 <p align="center">
   <img width="1694" height="755" alt="Screenshot 2026-04-23 191626" src="https://github.com/user-attachments/assets/0f10b417-fb0d-42a5-be8c-e8d7738d41f3" />
+</p>
+
+###  After
+<p align="center">
+  <img width="1702" height="941" alt="Screenshot 2026-04-23 192007" src="https://github.com/user-attachments/assets/9e7cb288-77e9-46ec-86a7-d749b5f9ebdd" />
 </p>
 
 # 🔮 Future Enhancements

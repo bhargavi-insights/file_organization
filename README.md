@@ -166,7 +166,7 @@ Restore previous file locations instantly.
 ###  Before  
 
 <p align="center">
-  
+  <img width="1694" height="755" alt="Screenshot 2026-04-23 191626" src="https://github.com/user-attachments/assets/f04e3d1f-9fae-4fe8-b11a-8bee0f668792" />
 </p>
 
 ###  After
@@ -210,7 +210,6 @@ GitHub: [https://github.com/bhargavi-insights](https://github.com/bhargavi-insig
 If you like this project:
 
 - ⭐ Star the repo
-- 🍴 Fork it
 - 🚀 Share it
 
 ---
